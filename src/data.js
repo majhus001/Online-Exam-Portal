@@ -2,7 +2,7 @@
 export const exams = [
   {
     id: 1,
-    title: 'JavaScript Fundamentals',
+    title: 'Python Fundamentals',
     duration: 30,
     questionsCount: 3,
     difficulty: 'Beginner'
